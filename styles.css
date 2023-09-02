@@ -22,7 +22,8 @@ nav {
 
 nav h5{
     display: inline-block;
-    margin-right: 15px;
+    margin-inline: 15px;
+    cursor: pointer;
 }
 
 nav input{
@@ -38,6 +39,27 @@ nav input:focus{
 nav span{
     background-color: #0000001a;
     padding: 2px;
+    cursor: pointer;
 }
 
 /* ------- Nav Section End ------- */
+
+/* ------- Sale (main) Section Start ------- */
+
+.sale{
+    background:url("https://static01.nyt.com/images/2021/03/30/multimedia/28xp-shoes-09/28xp-shoes-09-superJumbo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6% 10%;
+    color: #ffffff;
+    font-size: larger;
+}
+.sale header{
+    width: 70%;
+    background-color: #00000066;
+    padding: 2%;
+
+}
+
+/* ------- Sale (main) Section End ------- */
