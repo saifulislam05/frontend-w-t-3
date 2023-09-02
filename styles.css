@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.offer {
+    background: linear-gradient(to right, #000000, #e74c3c);
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+}
+/* ------- Nav Section Start ------- */
+nav {
+    background-color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding-block: 15px;
+    position: sticky;
+    top: 0;
+    color: white;
+}
+
+nav h5{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav input{
+    border:none;
+    width: 30%;
+    font-size: larger;
+}
+
+nav input:focus{
+    outline: none;
+}
+
+nav span{
+    background-color: #0000001a;
+    padding: 2px;
+}
+
+/* ------- Nav Section End ------- */
