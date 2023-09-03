@@ -4,6 +4,8 @@
 - `*`: Resets margin, padding, and box-sizing for all elements to ensure consistent styling.
 
 ## Header Section (`.offer` and `nav`)
+![image](https://github.com/saifulislam05/frontend-w-t-3/assets/73392705/162b861c-d16d-48c9-817d-0980a128afc2)
+
 ### `.offer` Selector
 - `background`: Creates a gradient background for the offer section.
 - `padding`: Adds padding to the offer section for spacing.
@@ -34,6 +36,8 @@
 - `cursor: pointer;`: Changes the cursor to a pointer on hover.
 
 ## Sale Section (`.sale`)
+![image](https://github.com/saifulislam05/frontend-w-t-3/assets/73392705/a33844e6-f27b-433b-beae-1ede772322de)
+
 - `background`: Sets a background image for the sale section.
 - `background-position`, `background-repeat`, `background-size`: Controls background image properties.
 - `padding`: Adds padding to the sale section.
@@ -46,6 +50,8 @@
 - `padding`: Adds padding to the header.
 
 ## Trending Section (`.trending`)
+![image](https://github.com/saifulislam05/frontend-w-t-3/assets/73392705/1d069864-2d3d-4d52-8c3d-c34c9b9549f2)
+
 - `padding`: Adds padding to the trending section.
 - `background-color`: Sets the background color of the trending section.
 
@@ -66,6 +72,8 @@
 - `width`, `height`: Styles images within the trending cards.
 
 ## Jordan History Section (`.jordan-history`)
+![image](https://github.com/saifulislam05/frontend-w-t-3/assets/73392705/60c045a0-eb10-44bf-a23c-8201be816770)
+
 - `background`: Creates a gradient background for the Jordan history section.
 
 ### Jordan History Container (`.container`)
