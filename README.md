@@ -1,5 +1,7 @@
 # Weekly test 3 (Jordan Shoe site)
 
+## Hosted link : https://saifulislam05.github.io/frontend-w-t-3/
+
 ## Global Styles
 - `*`: Resets margin, padding, and box-sizing for all elements to ensure consistent styling.
 
